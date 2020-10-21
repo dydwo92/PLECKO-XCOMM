@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Micro_SD_Card
+D Micro SD Card Socket
+K connector SD microsd
+F http://katalog.we-online.de/em/datasheet/693072010801.pdf
+$ENDCMP
+#
+$CMP RJHSE538004
+F https://www.digikey.kr/product-detail/en/amphenol-icc-commercial-products/RJHSE538004/RJHSE538004-ND/1979547?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol
+$ENDCMP
+#
+$CMP SW_Push
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP THVD1450
+D RS485 transceiver, 3.3-V to 5-V, 18-kV IEC ESD Protection, SOIC-8
+K rs485 transceiver line driver
+F http://www.ti.com/lit/ds/symlink/thvd1451.pdf
+$ENDCMP
+#
+#End Doc Library
